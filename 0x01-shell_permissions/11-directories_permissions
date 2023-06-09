@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x -R MODE DIRECTORY
+chmod gou+x -R MODE DIRECTORY
